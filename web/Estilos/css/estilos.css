@@ -1,0 +1,56 @@
+*{
+    margin: 0 auto;
+}
+body{
+    width: 100%;
+    height:auto;
+    background-image: url(../..//imagenes/floreria.jpg); 
+}
+.crear .a:focus{
+    border: 4px solid #76ff03;
+}
+
+h1{
+    font-size: 50px;
+    color: #00e5ff;
+    font-style: italic;
+    font-family: sans-serif;
+    
+}
+
+
+.botones1{
+    float: left;
+   padding-left:  40%;
+
+   
+}
+.botones2{
+       float: right;
+       padding-right: 48%;
+   
+}
+label{
+    color: #000000 ;
+    font-size: 30px;
+    font-family: initial;
+}
+
+
+   
+
+
+#caja{
+    
+    width: 30%;
+    height:auto;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin: 10%;
+    border:solid 2px #0D47A1;
+  
+   
+}
+input{
+    font-size: 180%;
+}
